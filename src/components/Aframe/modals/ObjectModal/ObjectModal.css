@@ -1,0 +1,11 @@
+.item-container{
+  margin: 10px 10px;
+  border-style: solid;
+  cursor: pointer;
+}
+
+.add-object-icon{
+  position: absolute;
+  top: 30%;
+  left: 40%;
+}

@@ -1,0 +1,6 @@
+.vscode
+.metals
+node_modules
+.cache
+.dccache
+dist

@@ -1,0 +1,16 @@
+.three-d-map-container{
+    display: flex;
+    width: 100%;
+}
+
+.hamburger-menu {
+    position: absolute;
+    left: 5px;
+    top: 60px;
+    cursor: pointer;
+}
+
+.three-d-map{
+    width: 100%;
+    height: 100vh;
+}

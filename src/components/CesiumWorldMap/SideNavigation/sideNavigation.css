@@ -1,0 +1,36 @@
+.three-d-map-bar {
+    width: 20%;
+    height: 100vh;
+    background-color: #5591A9;
+}
+
+.side-menu-header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px;
+    height: 4rem;
+    width: 100%;
+    background-color: #054569;
+}
+
+.side-menu-body{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 20px;
+    overflow-y: scroll;
+    height: 45rem;
+}
+
+.side-menu-footer {
+    position: fixed;
+    display: grid;
+    place-items: center;
+    bottom: 0;
+    width: 20%;
+    height: 4rem;
+    color: #054569;
+    background-color: #CED7E0;
+    cursor: pointer;
+}

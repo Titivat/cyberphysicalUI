@@ -1,0 +1,18 @@
+.items-container {
+    display: grid;
+    width: 70%;
+    place-items: center;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 4px;
+    grid-row-gap: 4px;
+    margin: 0;
+}
+
+.item {
+    width: 100%; 
+}
+
+.item-text{
+    text-align: center;
+}
